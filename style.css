@@ -667,8 +667,8 @@ section{
     #menu-btn{
         display: inline-block;
     }
-    .login-form input{
-        width: 30rem;
+    .login-form .box{
+        width: 20rem;
     }
     .header .search-form{
         width: 90%;
